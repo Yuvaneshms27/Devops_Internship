@@ -21,4 +21,4 @@ jobs:
         with:
           args: >
             -Dsonar.organization=yuvaneshms27
-            -Dsonar.projectKey=yuvaneshms27_devops
+            -Dsonar.projectKey=Yuvaneshms27_Devops_Internship
